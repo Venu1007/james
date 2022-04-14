@@ -1,4 +1,6 @@
-function subtract () {
+
+function subtraction() {
+
 var a = document.getElementById("firstno").value
 var b = document.getElementById("secondno").value
 var result
